@@ -11,7 +11,7 @@ function ShowBookDetails(props) {
 
   useEffect(() => {
     axios
-      .get(`http://cise-worksheet3-backend.vercel.app/api/books/${id}`)
+      .get(`https://cise-worksheet3-backend.vercel.app/api/books/${id}`)
       .then((res) => {
         setBook(res.data);
       })
