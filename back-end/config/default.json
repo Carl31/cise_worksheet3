@@ -1,3 +1,3 @@
 {
-    "mongoURI": "mongodb+srv://carl31:cise_2023@cise.117fvuo.mongodb.net/?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://carl31:cise_2023@cluster0.fuvrr2z.mongodb.net/"
 }
